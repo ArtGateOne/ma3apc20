@@ -6,7 +6,7 @@ This is nodejs code to control GrandMa3 software use Akai APC20 midi controller
 
 How to use:
 
-Download and instal NODEJS version 14.17 from https://nodejs.org/en/
+Download and instal NODEJS version 14.17 from https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi
 
 Download my code.
 
@@ -27,7 +27,7 @@ port 8001 for send osc and sendcmd
 
 Run command prompt (win+R cmd)
 
-enter to folder winth my code
+enter to folder with my code
 
 
 run code:
