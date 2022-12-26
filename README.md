@@ -49,3 +49,9 @@ red blue green buttons is flash GO+ GO-
 Yellow buttons to select for controll encoders
 
 
+
+------------------------
+
+This code work with ma3onpc version 1.7.2.0
+
+Not work with last 1.8.1.0 and 1.8.8.2 :(
