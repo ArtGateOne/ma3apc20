@@ -1,3 +1,5 @@
+//ma3apc20 v 1.1 by ArtGateOne
+
 var easymidi = require('easymidi');
 var osc = require("osc")
 
