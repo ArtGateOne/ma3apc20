@@ -1,0 +1,22 @@
+{
+  "name": "ma3apc20",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "ma3apc20.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ArtGateOne",
+  "license": "ISC",
+  "dependencies": {
+    "easymidi": "^3.1.0",
+    "osc": "^2.4.4"
+  }
+}
